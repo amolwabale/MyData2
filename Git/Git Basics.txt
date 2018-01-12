@@ -1,0 +1,6 @@
+Git is created by -
+Linus Torvalds
+
+Reason for creation of Git -
+It was created due to seperation of Linux and BitKeeper team when bitkeeper stopped supporting linux team 
+linux started their own project called git project in 2005

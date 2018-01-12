@@ -1,0 +1,19 @@
+1.  When we do GIT configuration (git config) where is the configuration saved.
+Is there any .config file ?
+
+2. can we check diff via any ui tool ?
+
+3. Did not get the followingcommand character turn line feed ?
+git config --global core.autocrlf true|false|input
+
+4. What is the difference between hard and soft in reset command ( git reset --hard HEAD~1 )?
+
+5. What is the difference between -n and -f in clean command ( git clean -f ) ?
+
+6. .gitignore not visible on github
+
+7. Did not get command
+ - git remote add origin https://github.com/amolw-cuelogic/SampleProject.git
+ - git fetch
+
+8. What is the importance of tagging with annotation and sign, why do we do so ?

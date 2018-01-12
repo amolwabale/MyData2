@@ -1,0 +1,13 @@
+ 	static void Main(string[] args)
+        {
+            var input = Console.ReadLine().ToLower();
+            char[] arr = input.ToCharArray();
+            Array.Reverse(arr);
+            string ReversedString = new string(arr);
+
+            if (input == ReversedString)
+                Console.WriteLine("It is a palindrome string");
+            else
+                Console.WriteLine("It is not a palindrome string");
+            Console.ReadLine();
+        }
